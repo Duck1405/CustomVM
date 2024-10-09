@@ -10,7 +10,7 @@
     "description": "Read: Custom egg: Ask Duck for Questions",
     "features": null,
     "docker_images": {
-        "quay.io\/rd105291\/custom0": "quay.io\/rd105291\/custom0"
+        "quay.io\/rd105291\/custom1": "quay.io\/rd105291\/custom1"
     },
     "file_denylist": [],
     "startup": "bash \/run.sh",
@@ -23,7 +23,7 @@
     "scripts": {
         "installation": {
             "script": null,
-            "container": "quay.io\/rd105291\/custom0",
+            "container": "quay.io\/rd105291\/custom1",
             "entrypoint": "bash"
         }
     },

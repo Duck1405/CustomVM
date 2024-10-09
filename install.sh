@@ -132,11 +132,11 @@ if [ ! -e "$ROOTFS_DIR/.installed" ]; then
     printf "\033c"
     
     # Display the menu
-    echo -e "${GREEN} _____         __                     _______               __   __              ${NC}"
-    echo -e "${GREEN}|     \.-----.|  |--.-----.-----.    |   |   |.-----.-----.|  |_|__|.-----.-----.${NC}"
-    echo -e "${GREEN}|  --  |  -__||    <|  _  |__ --|    |       ||  _  |__ --||   _|  ||     |  _  |${NC}"
-    echo -e "${GREEN}|_____/|_____||__|__|_____|_____|    |___|___||_____|_____||____|__||__|__|___  |${NC}"
-    echo -e "${GREEN}                                                                          |_____|${NC}"
+    echo -e "${GREEN} _______                         _______           __              ${NC}"
+    echo -e "${GREEN}|   |   |.-----.-----.-----.    |    |  |.-----.--|  |.-----.-----.${NC}"
+    echo -e "${GREEN}|       ||  _  |  _  |     |    |       ||  _  |  _  ||  -__|__ --|${NC}"
+    echo -e "${GREEN}|__|_|__||_____|_____|__|__|    |__|____||_____|_____||_____|_____|${NC}"
+    echo -e "${GREEN}                                                                   ${NC}"
     echo -e "${GREEN}              Made By Duck: For More info my discord is jakethedev.              ${NC}"
     echo -e "${GREEN}${NC}"
     echo "                                                                                               "
