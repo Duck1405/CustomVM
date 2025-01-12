@@ -27,4 +27,4 @@ Feel free to customize the Egg settings and configurations to suit your requirem
 
 ## Contributing
 
-Source code used from a fork, make sure to check them out as well!!
+pls star??
